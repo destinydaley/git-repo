@@ -1,0 +1,5 @@
+# In part E1, I accepted the current change so I can keep the version I created. 
+# After that, I can saved the file, stage it again by using add, and commit again. 
+# In part C1, I made changes to the bout section by added information about me. 
+#In the contact section I added a phone number so that people are able to contact me.
+#In the index I added multiple indexes.
